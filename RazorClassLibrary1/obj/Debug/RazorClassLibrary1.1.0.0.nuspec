@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>RazorClassLibrary1</id>
+    <version>1.0.0</version>
+    <authors>RazorClassLibrary1</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="DevExpress.Blazor" version="22.2.6" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Components.Web" version="7.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\leobo\source\repos\MauiApp2\RazorClassLibrary1\bin\Debug\net7.0\RazorClassLibrary1.dll" target="lib\net7.0\RazorClassLibrary1.dll" />
+    <file src="C:\Users\leobo\source\repos\MauiApp2\RazorClassLibrary1\obj\Debug\net7.0\scopedcss\projectbundle\RazorClassLibrary1.bundle.scp.css" target="staticwebassets\RazorClassLibrary1.bundle.scp.css" />
+    <file src="C:\Users\leobo\source\repos\MauiApp2\RazorClassLibrary1\wwwroot\background.png" target="staticwebassets\background.png" />
+    <file src="C:\Users\leobo\source\repos\MauiApp2\RazorClassLibrary1\wwwroot\exampleJsInterop.js" target="staticwebassets\exampleJsInterop.js" />
+    <file src="C:\Users\leobo\source\repos\MauiApp2\RazorClassLibrary1\obj\Debug\net7.0\staticwebassets\msbuild.RazorClassLibrary1.Microsoft.AspNetCore.StaticWebAssets.props" target="build\Microsoft.AspNetCore.StaticWebAssets.props" />
+    <file src="C:\Users\leobo\source\repos\MauiApp2\RazorClassLibrary1\obj\Debug\net7.0\staticwebassets\msbuild.build.RazorClassLibrary1.props" target="build\RazorClassLibrary1.props" />
+    <file src="C:\Users\leobo\source\repos\MauiApp2\RazorClassLibrary1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.RazorClassLibrary1.props" target="buildMultiTargeting\RazorClassLibrary1.props" />
+    <file src="C:\Users\leobo\source\repos\MauiApp2\RazorClassLibrary1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.RazorClassLibrary1.props" target="buildTransitive\RazorClassLibrary1.props" />
+  </files>
+</package>

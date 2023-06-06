@@ -1,0 +1,1 @@
+import{D as e}from"./dx-html-element-base-a7eec681.js";import"./data-qa-utils-8be7c726.js";import"./dx-html-element-pointer-events-helper-10ee3756.js";import"./dom-25ebd160.js";import"./_tslib-6e8ca86b.js";import"./eventhelper-8570b930.js";customElements.define("dxbl-group-control",class extends e{});const t={loadModule:function(){}};export{t as default};
